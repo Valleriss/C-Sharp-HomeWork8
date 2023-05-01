@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+
+
+// Выполненные задания находятся в соответствующих ветках.
+
+// Список веток:
+// main
+// task54
+// task56
+// task58
+// task60
+// task62
